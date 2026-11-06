@@ -1,4 +1,4 @@
-##Understanding ResNet-18 Through Activation Entropy
+**Understanding ResNet-18 Through Activation Entropy
 
 How do a neural network’s internal representations evolve as it learns to recognize images? This project investigates that question by training ResNet-18 from scratch and tracking the distribution of activations in its final convolutional layer.
 
